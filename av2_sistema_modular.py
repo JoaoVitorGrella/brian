@@ -3,7 +3,7 @@
 # ARQUIVO: av2_sistema_modular.py
 # Nome do Aluno: JOAO VITOR GRELLA
 # Data: 18/09/2026
-# Link do Repositório:
+# Link do Repositório: https://github.com/JoaoVitorGrella/brian
 # ==============================================================================
 
 
